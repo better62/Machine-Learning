@@ -12,7 +12,8 @@
 
 
 ## 프로젝트
-- [주어진 데이터셋을 이용하여 우울증 여부 판단하기] (https://github.com/better62/Machine-Learning/blob/Project/Project(2019311492%20%EC%9D%B4%EB%82%98%EC%9D%80).ipynb)
+- 주제 : [주어진 데이터셋을 이용하여 우울증 여부 판단하기](https://github.com/better62/Machine-Learning/blob/Project/Project(2019311492%20%EC%9D%B4%EB%82%98%EC%9D%80).ipynb)
+- 데이터셋 : 영상 속 사람의 얼굴과 목소리 등을 수치 데이터로 변환
 - 이중분류
 - 대시보드 이용하여 수강자 중 최대한 높은 accuracy를 갖도록 모델 구현
 - Gradient Boosting 모델 이용
