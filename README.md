@@ -1,6 +1,8 @@
 # Machine-Learning
 성균관대학교 인공지능융합전공 기계학습 프로젝트 &amp; 과제 파일 입니다.
 
+최종 성적 : A+
+
 
 ## 과제
 - [과제1 : Naive Bayes 구현](https://github.com/better62/Machine-Learning/blob/Assignment/ML_Assignment_01(2019311492_%EC%9D%B4%EB%82%98%EC%9D%80).ipynb)
